@@ -1,4 +1,4 @@
-//program to deference highest markk
+//program to print deference highest mark array
 #include<stdio.h>
 #include<limits.h>
 int main()
